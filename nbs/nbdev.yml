@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "date-helper"
+  site-url: "https://tw13023.github.io/date-helper"
+  description: "A simple date utility library"
+  repo-branch: main
+  repo-url: "https://github.com/tw13023/date-helper"
